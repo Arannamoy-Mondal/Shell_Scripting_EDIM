@@ -3,6 +3,6 @@
 ps -p $$ -o comm=
 ```
 
-#
- [ ] regex
- [ ] mathematical operation
+### 
+1. [x] regex
+2. [x] mathematical operation
