@@ -5,4 +5,4 @@ ps -p $$ -o comm=
 
 ### 
 1. [x] regex
-2. [x] mathematical operation
+2. [ ] mathematical operation
