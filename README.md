@@ -3,5 +3,5 @@
 ps -p $$ -o comm=
 ```
 
-[x] regex
-[x] mathematical operation
+[ x ] regex
+[ x ] mathematical operation
